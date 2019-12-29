@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /projects/
+permalink: /projectportfolio/
 title: "Miscellaneous"
 author_profile: true
 header:
