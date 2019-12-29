@@ -7,10 +7,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mihir Patel"
+title                    : "Mihir Patel's Project Portfolio"
 title_separator          : "-"
 #name                     : "Mihir Patel"
-description              : "Wannabe data [viz]ard."
+#description              : "Wannabe data [viz]ard."
 url                      : "https://ToadHanks.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name
@@ -74,7 +74,7 @@ analytics:
 author:
   name             : "Mihir Patel"
   avatar           : "/images/avatar.jpg"
-  bio              : "A Project Portfolio"
+  bio              : "Wannabe data [viz]ard."
   location         : "Tampa, FL"
   email            : mihirp161@gmail.com
   uri              :
