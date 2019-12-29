@@ -79,9 +79,9 @@ author:
   email            : mihirp161@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  github           : "https://github.com/ToadHanks"
+  github           : "ToadHanks"
   gitlab           :
-  twitter          : "https://twitter.com/ToadHanks"
+  twitter          : "ToadHanks"
   linkedin         : #"comingsoon, post link"
   stackoverflow    : #"123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   kaggle           : #"comingsoon, post link"
@@ -97,7 +97,7 @@ footer:
       url:  "https://twitter.com/ToadHanks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "https://github.com/ToadHanks"
+      url:  "ToadHanks"
     #- label: "LinkedIn"
      # icon: "fab fa-fw fa-LinkedIn"
       # url: "https://linkedin.com/"
