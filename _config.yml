@@ -13,7 +13,7 @@ name                     : "Mihir Patel"
 description              : "Wannabe data [viz]ard."
 url                      : "https://ToadHanks.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -76,11 +76,12 @@ author:
   avatar           : "/images/avatar.jpg"
   bio              : "Data Science & Analytics Portfolio"
   location         : "Tampa, FL"
-  email            : mailto:mihirp161@gmail.com
+  email            : mihirp161@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   github           : "https://github.com/ToadHanks"
   gitlab           :
+  twitter          : "https://twitter.com/ToadHanks"
   linkedin         : #"comingsoon, post link"
   stackoverflow    : #"123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   kaggle           : #"comingsoon, post link"
@@ -90,15 +91,15 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mihirp161@gmail.com
+      url:  mihirp161@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url:  "https://twitter.com/ToadHanks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url:  "https://github.com/ToadHanks"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
+    #- label: "LinkedIn"
+     # icon: "fab fa-fw fa-LinkedIn"
       # url: "https://linkedin.com/"
 
 # Reading Files
