@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Visualization Projects"
-    url: /data-visualization/
+  - title: "Data Science & Analytics"
+    url: /data-science-and-analytics/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
