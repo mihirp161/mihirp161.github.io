@@ -4,7 +4,5 @@ main:
     url: /about/
   - title: "Data Science & Analytics"
     url: /data-science-and-analytics/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
