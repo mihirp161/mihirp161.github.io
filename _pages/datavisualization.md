@@ -4,7 +4,7 @@ permalink: /data-visualization/
 title: "Data Visualization Projects"
 author_profile: true
 header:
-  image: "/images/dendochorno.jpg"
+  image: "/images/coming_soon.png"
 ---
 
 
