@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "Project Portfolio"
+    url: /projectsportfolio/
+  - title: "Papers"
+    url: /papers/
   - title: "About"
     url: /about/
-  - title: "Data Science & Analytics"
-    url: /data-science-and-analytics/
-  - title: "Miscellaneous"
-    url: /miscellaneous/
