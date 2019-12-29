@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Visulization Projects"
+  - title: "Data Visualization Projects"
     url: /data-visualization/
   # - title: "Sample Posts"
   #   url: /year-archive/
