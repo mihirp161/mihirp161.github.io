@@ -1,9 +1,5 @@
-# Name of the property. You can have multiple properties with completely
-# different config blocks for different sections of your site.
-# For example, you can have one property to handle comment submission and
-# another one to handle posts.
-# To encrypt strings use the following endpoint:
-# https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
+#Original author: Michael Rose
+#Editor: Mihir Patel
 
 comments:
   # (*) REQUIRED
