@@ -10,7 +10,7 @@ Status
 --------
 Work-in-progress
 
-Author
+Author & Editor
 -------------
 Mihir Patel
 
