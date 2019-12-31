@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /projectportfolio/
-title: "Posts by Tags"
+title: "Posts"
 author_profile: true
 header:
 ---
