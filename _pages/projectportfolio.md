@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /projectportfolio/
-title: "Posts (more coming soon, in the meantime please visit my GitHub)"
+title: "Posts (work-in-progress, please visit my GitHub for more)"
 author_profile: true
 header:
 ---
