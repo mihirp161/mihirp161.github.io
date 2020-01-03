@@ -1,6 +1,6 @@
 # Author: Mihir Patel
 main:
-  - title: "Project Portfolio"
+  - title: "Posts"
     url: /projectportfolio/
   - title: "Résumé"
     url: /resume/
