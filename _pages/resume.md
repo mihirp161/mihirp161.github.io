@@ -1,5 +1,5 @@
 ---
-title: "Résuméttt"
+title: "Résumé"
 permalink: /resume/
 header:
 ---
