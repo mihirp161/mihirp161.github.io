@@ -1,6 +1,7 @@
 ---
 title: "Résumé"
+layout: pdf
 permalink: /resume/
-header:
 ---
-[See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v4.pdf)
+
+<iframe src="https://drive.google.com/file/d/19cr9irQ9KbIexBG1-bSMpYpowmz583s9/preview" width="640" height="480"></iframe>
