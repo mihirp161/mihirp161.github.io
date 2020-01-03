@@ -4,4 +4,4 @@ permalink: /resume/
 author_profile: true
 header:
 ---
-![resume](https://github.com/ToadHanks/ToadHanks.github.io/blob/master/images/mihir_patel_resume_png.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/mihir_patel_resume_png.png" alt="">
