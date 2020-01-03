@@ -1,5 +1,5 @@
 ---
 title: "Résuméttt"
 permalink: /resume/
-<a href="ToadHanks.github.io/images/mihir_resume_2019v4.pdf" target="_blank">PDF.</a>
+[mpi caterpillar](http://ToadHanks.github.io/images/mihir_resume_2019v4.pdf)
 ---
