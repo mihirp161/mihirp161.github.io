@@ -2,5 +2,7 @@
 main:
   - title: "Project Portfolio"
     url: /projectportfolio/
+  - title: "Résumé"
+    url: /resume/
   - title: "About"
     url: /about/
