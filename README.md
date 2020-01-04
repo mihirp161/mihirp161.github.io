@@ -4,7 +4,7 @@ https://ToadHanks.github.io/
 
 Project Description
 -----------------
-A portfolio containing some of my favourite projects and resume. 
+A portfolio containing some of my favourite projects. 
 
 Status
 --------
