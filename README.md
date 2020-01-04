@@ -16,4 +16,4 @@ Mihir Patel
 
 Special Thanks
 --------------
-Michael Rose (https://github.com/mmistakes) for making the minimal style GitHub Pages theme :)
+Jekyll (https://github.com/jekyll/jekyll) & Michael Rose (https://github.com/mmistakes) for GitHub Pages tools.
