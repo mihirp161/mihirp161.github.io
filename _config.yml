@@ -99,7 +99,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url:  "ToadHanks"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
 
 
