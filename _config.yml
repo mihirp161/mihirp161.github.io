@@ -82,7 +82,7 @@ author:
   github           : "ToadHanks"
   gitlab           :
   twitter          : "ToadHanks"
-  linkedin         : #"comingsoon, post link"
+  linkedin         : "mihir-patel-tampabay"
   stackoverflow    : #"123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   kaggle           : #"comingsoon, post link"
 
@@ -98,9 +98,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url:  "ToadHanks"
-    #- label: "LinkedIn"
-    #  icon: "fab fa-fw fa-LinkedIn"
-    #  url: "https://linkedin.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
 
 
 # Reading Files
