@@ -1,5 +1,5 @@
 ---
-title: "Creating the Mandelbrot Set Using Algebra"
+title: "Creating the Mandelbrot Set Using Base Tools in R"
 date: 2020-01-17
 tags: [Miscellaneous, R]
 header:
