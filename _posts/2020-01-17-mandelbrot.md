@@ -39,9 +39,9 @@ mandelbrot <<- function(i,j){
 }
 ```
 The reason why unusual properties occur between -2 and 1 is due to two simple rules of algebra:
-1. Product of two negative numbers is a postive number
-2. Adding a negative is similar to subtracting that number's positive value
-
+1. Product of two negative numbers is a postive number.
+2. Adding a negative is similar to subtracting that number's positive value.    
+    
 These two rules work against each other, so when we have the expression $$F= {x^2+c|x is any number, and -2<x<1}$$ and we iterate many complex numbers over this expression under the limit (-2,1), then we see sort of chaotic behaviour, where the output bounces back between a small segement of a number line, never going too far from 0, and never hitting the exact same value twice.
 
 Because real numbers get exponentially large, we can use the complex numbers. Complex numbers do not sit on the number line, thus preventing us from any infite sequence. 
@@ -50,11 +50,11 @@ A complex number is bascially a real number added to any imaginary number. Imagi
 
 Anyhow, getting back to the track, since complex numbers don't really work well with 0s and 1s of computers, we have to convert the complex numbers to their standard form of expression by factoring out the -1.
 For example:
-$$ => 2 + sqrt(-9) $$
-$$ => 2 + sqrt(9 x -1) => $$
-$$ => 2+ sqrt(9) x sqrt(-1) => $$
-$$ => 2+3 x sqrt(-1) $$
-$$ => 2+3i $$
+$$ => 2 + sqrt(-9) $$   
+$$ => 2 + sqrt(9 x -1) => $$    
+$$ => 2+ sqrt(9) x sqrt(-1) => $$    
+$$ => 2+3 x sqrt(-1) $$    
+$$ => 2+3i $$    
 
 So, whenever the complex numbers are broken down in $$A+Bi$$ form, they can be easily used in a calculation and get ordered in the complex plain.
 
