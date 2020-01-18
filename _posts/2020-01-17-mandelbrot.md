@@ -27,7 +27,7 @@ The `mandelbrot()` function above contains an expression that creats set of numb
 ```r
 mandelbrot <<- function(i,j){
   # extra code
-  x <- i-c 
+  x <- i-c # here c is some real number
   y <- c-j 
   a <- complex(real = x/200, imaginary = y/200) #real numbers
   b <- complex(real = 0, imaginary = 0) #imaginary numbers
