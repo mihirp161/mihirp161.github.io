@@ -10,7 +10,7 @@ In this project, I wanted to play around with the very first fractal- Mandelbrot
 
 Please feel free to look through the **source code** by going [here](https://github.com/ToadHanks/madelbrot_fractal_R).
 
-A Mandelbrot is a set of numbers that display unusual properties. So, I started by making function that would generate those numbers by interating in a complex number plain (ps, don't worry if your algeabric terminology is weak, I try my best to explain everything as I go), like this-
+A Mandelbrot is a set of numbers that display unusual properties. So, I started by making function that would generate those numbers by interating in a complex number plane (ps, don't worry if your algeabric terminology is weak, I try my best to explain everything as I go), like this-
 
 ```r
 for(i in x){ 
@@ -59,7 +59,7 @@ For example-
 
 So, whenever the complex numbers are broken down in $$Z= A+Bi$$ form, they can be easily used in a calculation and get ordered in the complex plane.
 
-A complex plain is just a 2-D extension of a real number plain, where the X-axis is a real number line, and Y-axis is an imaginary line (which mimics like a real number line). In the complex plane, each complex number has its unique address like `(1, 1+1i)`, `(1, 1+2i)` and so on.
+A complex plane is just a 2-D extension of a real number plane, where the X-axis is a real number line, and Y-axis is an imaginary line (which mimics like a real number line). In the complex plane, each complex number has its unique address like `(1, 1+1i)`, `(1, 1+2i)` and so on.
 
 In code, this is how I am doing-
 
@@ -83,9 +83,11 @@ mandelbrot <<- function(i,j){
 Therefore whenever any number that resides between `(-2,1)`, in a complex plane that doesn't cause an exponential growth, and become a circle with radius 2. In both graphs below, this nature is in black.  
 
 1. Here is a fractal created by Dr.Benoit Mandelbrot-
+
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/original_fractal.jpg" alt="">
 
 2. Here is mine, looks very bad-
+
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
 
 Now you might be wondering, why is there varying colour hue around the black regions? In a nutshell, the region with similar colour is the numbers that have escaped the black region. Meaning, they are all the numbers which are not part of the set 
