@@ -23,7 +23,7 @@ for(i in x){
 }
 ```
 
-The `mandelbrot()` function above contains an expression that creats set of numbers that behave differently if the x and y are between `(-2, 1)`. Formally, `F= {x^2+c|x is any number, and -2<x<1}` in a proper code form I have something like this-
+The `mandelbrot()` function above contains an expression that creats set of numbers that behave differently if the x and y are between `(-2, 1)`. Formally, `F= {x^2 + c|x is any number, and -2< x <1}` in a proper code form I have something like this-
 
 ```r
 mandelbrot <<- function(i,j){
@@ -42,7 +42,7 @@ The reason why unusual properties occur between -2 and 1 is due to two simple ru
 1. Product of two negative numbers is a positive number.
 2. Adding a negative is similar to subtracting that number's positive value.    
      
-These two rules work against each other, so when we have the expression `F= {x^2+c|x is any number, and -2<x<1}` and we iterate many complex numbers over this expression under the limit `(-2,1)`, then we see sort of chaotic behaviour, where the output bounces back between a small segment of a number line, never going too far from 0, and never hitting the exact same value twice.    
+These two rules work against each other, so when we have the expression `F= {x^2 + c|x is any number, and -2< x <1}` and we iterate many complex numbers over this expression under the limit `(-2,1)`, then we see sort of chaotic behaviour, where the output bounces back between a small segment of a number line, never going too far from 0, and never hitting the exact same value twice.    
 
 Because real numbers get exponentially large, we can use the complex numbers. Complex numbers do not sit on the number line, thus preventing us from an infinite sequence. 
 
@@ -91,6 +91,6 @@ Therefore whenever any number that resides between `(-2,1)`, in a complex plane 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
 
 Now you might be wondering, why is there varying colour hue around the black regions? In a nutshell, the region with similar colour is the numbers that have escaped the black region. Meaning, they are all the numbers which are not part of the set 
-`F= {x^2+c|x is any number, and -2<x<1}` with given iteration. As we increased the iterations, we get more and more numbers escaping, thus creating the Mandelbrot fractal. 
+`F= {x^2 + c|x is any number, and -2< x <1}` with given iteration. As we increased the iterations, we get more and more numbers escaping, thus creating the Mandelbrot fractal. 
 
 Even though code for this looks small (and unoptimized), it took 4-5 hrs to get the graph done. If you liked this post, and want to learn more about Mandelbrot Set, please go [here](https://en.wikipedia.org/wiki/Mandelbrot_set) to read more about them.
