@@ -104,7 +104,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ToadHanks"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
 
 
@@ -121,7 +121,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url:  "ToadHanks"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
 
 
