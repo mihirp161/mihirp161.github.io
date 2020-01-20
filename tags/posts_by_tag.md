@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tags
+title: "Tagssss"
 comments: false
 permalink: /tags/
 author_profile: true
