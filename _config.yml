@@ -6,10 +6,10 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mihir Patel"
+title                    : "Hi! I'm Mihir Patel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hi! I'm Mihir Patel."
+name                     : "Mihir Patel"
 #description              : ""
 url                      : "https://ToadHanks.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hi! I'm Mihir Patel."
+  name             : "Mihir Patel."
   avatar           : "/images/avatar.jpg"
   bio              : "Wannabe data [viz]ard."
   location         : "Tampa, FL"
