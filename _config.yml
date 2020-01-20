@@ -90,7 +90,6 @@ author:
   avatar           : "/images/avatar.jpg"
   bio              : "Wannabe data [viz]ard."
   location         : "Tampa, FL"
-  email            : mihirp161@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,7 +113,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mihirp161@gmail.com
+      url: mailto:mihirp161@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url:  "https://twitter.com/ToadHanks"
