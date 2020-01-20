@@ -1,30 +1,31 @@
 ---
-layout: archive
-title: Tags
-comments: false
+layout: page
+title: Posts by Tag
 permalink: /tags/
 ---
+### Posts by tag
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-<!-- site_tags: {{ site_tags }} -->
-{% assign tag_words = site_tags | split:',' | sort %}
-<!-- tag_words: {{ tag_words }} -->
+{% assign sorted_tags = (site.tags | sort:0) %}
+<ul class="tag-box">
+	{% for tag in sorted_tags %}
+		{% assign t = tag | first %}
+		{% assign posts = tag | last %}
+		<li><a href="#{{ t | downcase }}">{{ t }} <span class="size">({{ posts.size }})</span></a></li>
+	{% endfor %}
+</ul>
 
-<div id="tags">
-  <ul class="tag-box inline">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
-  </ul>
+{% for tag in sorted_tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
 
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
-  <ul class="posts">
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <li itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
-  </ul>
-  {% endunless %}{% endfor %}
-</div>
+<h4 id="{{ t | downcase }}">{{ t }}</h4>
+<ul>
+{% for post in posts %}
+  {% if post.tags contains t %}
+    <li>
+       <span class="date">{{ post.date | date: '%d %b %y' }}</span>:  <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
