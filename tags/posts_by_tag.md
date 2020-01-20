@@ -1,6 +1,6 @@
 ---
-layout: tags
-title: "Tagssss"
+layout: archive
+title: "Tags"
 comments: false
 permalink: /tags/
 author_profile: true
