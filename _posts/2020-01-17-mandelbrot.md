@@ -94,3 +94,6 @@ Now you might be wondering, why is there varying colour hue around the black reg
 `F= {x^2 + c|x is any number, and -2< x <1}` with given iteration. As we increased the iterations, we get more and more numbers escaping, thus creating the Mandelbrot fractal. 
 
 Even though code for this looks small (and unoptimized), it took 4-5 hrs to get the graph done. If you liked this post, and want to learn more about Mandelbrot Set, please go [here](https://en.wikipedia.org/wiki/Mandelbrot_set) to read more about them.
+
+**Feedback**: Did you (or not) enjoy this read or think it can be improved? If not, please email me! If you liked this article, then please share if possible! 
+{: .notice--success}
