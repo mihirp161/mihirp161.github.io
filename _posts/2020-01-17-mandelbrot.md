@@ -95,5 +95,5 @@ Now you might be wondering, why is there varying colour hue around the black reg
 
 Even though code for this looks small (and unoptimized), it took 4-5 hrs to get the graph done. If you liked this post, and want to learn more about Mandelbrot Set, please go [here](https://en.wikipedia.org/wiki/Mandelbrot_set) to read more about them.
 
-**NOTE**: Thank you very much for reading this post. Do you think there's something which needs improvement? If yes, please email me and let me know! And if you've liked this article, then please share if you can :) 
+**NOTE**: Thank you very much for reading! If you've liked this post, please share it. And if there are any feedbacks then please e-mail me :)
 {: .notice--success}
