@@ -68,7 +68,7 @@ for (n in 2:(max_itr)) {
 }
 ```
 
-As you can see, the process itself is very simple once you get the points to store at the right place in a matrix. One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct arch of the fern.
+As you can see, the process itself is very simple once you get the points to store at the right place in a matrix. One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct stalk (arch) of the fern.
 
 The plot is as simple as this-
 
