@@ -16,7 +16,7 @@ To begin with, to make this kind of fractal, you would need some sort of 2D spac
 
   `f: xn = 0, yn = 0 (start and iterate from this point)`
        
-  `(f1 is chosen 1% of the time)`
+  `(f1 is chosen 1% of the time)`     
   `f1: xn+1 = 0, yn+1 = 0.16 yn`
       
   `(f2 ischosen 7% of the time)`        
