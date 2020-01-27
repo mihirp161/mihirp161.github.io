@@ -80,13 +80,15 @@ mandelbrot <<- function(i,j){
 }
 ```
 
-Therefore whenever any number that resides between `(-2,1)`, in a complex plane that doesn't cause an exponential growth, and become a circle with radius 2. In both graphs below, this nature is in black.  
+Therefore whenever any number that resides between `(-2,1)`, in a complex plane that doesn't cause an exponential growth, and become a circle with radius 2.     
 
-1. Here is a fractal created by Dr.Benoit Mandelbrot-
+In both graphs below, this nature is in black-     
+
+1. Here is a fractal created by Dr.Benoit Mandelbrot:
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/original_fractal.jpg" alt="">
 
-2. Here is mine, looks very bad-
+2. Here is mine, looks very bad:
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
 
