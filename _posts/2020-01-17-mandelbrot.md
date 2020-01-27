@@ -88,7 +88,7 @@ In both graphs below, this nature is in black-
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/original_fractal.jpg" alt="">
 
-2. Here is mine, looks very bad:
+2. Here is the fractal I've made, looks very bad:
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
 
