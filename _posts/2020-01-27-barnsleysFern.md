@@ -14,15 +14,15 @@ Anyhow, let's talk about how I drew this fractal in open-source R. Also, please 
 
 To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the following linear algebraic coordinate transformation-
 
-  `starting at x = 0, y = 0 then iterate over one of these`    
-  `f1: xn+1 = 0 (chosen 1% of the time)`    
-  `    yn+1 = 0.16 yn`      
-  `f2: xn+1 = -0.15 xn + 0.28 yn (chosen 7% of the time)`    
-  `    yn+1 = 0.26 xn + 0.24 yn + 0.44`    
-  `f3: xn+1 = 0.2 xn - 0.26 yn (chosen 14% of the time)`    
-  `    yn+1 = 0.23 xn + 0.22 yn + 1.6`    
-  `f4: xn+1 = 0.85 xn + 0.04 yn (chosen 85% of the time)`    
-  `    yn+1 = -0.04 xn + 0.85 yn + 1.6`    
+  `starting at x = 0, y = 0 then iterate over one of these     
+  f1: xn+1 = 0 (chosen 1% of the time)     
+      yn+1 = 0.16 yn         
+  f2: xn+1 = -0.15 xn + 0.28 yn (chosen 7% of the time)      
+      yn+1 = 0.26 xn + 0.24 yn + 0.44     
+  f3: xn+1 = 0.2 xn - 0.26 yn (chosen 14% of the time)       
+      yn+1 = 0.23 xn + 0.22 yn + 1.6       
+  f4: xn+1 = 0.85 xn + 0.04 yn (chosen 85% of the time)    
+      yn+1 = -0.04 xn + 0.85 yn + 1.6`      
 
 Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix.
 
@@ -72,16 +72,18 @@ The plot is as simple as this-
 plot(x,y, pch='.', xlab= "", ylab = "", col= color)
 ```
 
-1. Here is a fractal created by Dr. Michael Barnsley-
+Here is a fractal created by Dr. Michael Barnsley-
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/barn_original.png" alt="">
 
-2. Here is mine, looks good I think-
+Here is mine, looks good I think-
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/fern.png" alt="">
 
 
-For visual people who want to see how the fern is made, please checkout the link [here](https://www.geogebra.org/m/bQ8ppzRj)
+For visual people who want to see how the fern is made, please checkout the link [here](https://www.geogebra.org/m/bQ8ppzRj).
+
+
 And if you want to learn more about fern fractal, please go [here](https://en.wikipedia.org/wiki/Barnsley_fern#Construction) to read more about its process and matrix representation.
 
 
