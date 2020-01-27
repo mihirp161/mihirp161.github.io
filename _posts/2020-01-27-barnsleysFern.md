@@ -14,11 +14,19 @@ Anyhow, let's talk about how I drew this fractal in open-source R. Also, please 
 
 To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the four following linear algebraic coordinate transformation-
 
-  `Start-> f: xn = 0, yn = 0 (start and iterate from this point)`                    
-  `f1: xn+1 = 0, yn+1 = 0.16 yn (chosen 1% of the time)`                     
-  `f2: xn+1 = -0.15 xn + 0.28 yn, yn+1 = 0.26 xn + 0.24 yn + 0.44 (chosen 7% of the time)`                  
-  `f3: xn+1 = 0.2 xn - 0.26 yn,  yn+1 = 0.23 xn + 0.22 yn + 1.6 (chosen 14% of the time)`                   
-  `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6 (chosen 85% of the time)`               
+  `f: xn = 0, yn = 0 (start and iterate from this point)`
+       
+  `(f1 is chosen 1% of the time)`
+  `f1: xn+1 = 0, yn+1 = 0.16 yn`
+      
+  `(f2 ischosen 7% of the time)`        
+  `f2: xn+1 = -0.15 xn + 0.28 yn, yn+1 = 0.26 xn + 0.24 yn + 0.44` 
+       
+  `(f3 is chosen 14% of the time)`        
+  `f3: xn+1 = 0.2 xn - 0.26 yn,  yn+1 = 0.23 xn + 0.22 yn + 1.6`
+     
+  `(f4 is chosen 85% of the time)`     
+  `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6`               
 
 Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix.
 
