@@ -12,17 +12,13 @@ The fern was first represented into a mathametical context by [Dr. Michael Barns
 
 Anyhow, let's talk about how I drew this fractal in open-source R. Also, please feel free to look through the **source code** by going [here](https://github.com/ToadHanks/barnsleys_fractal).
 
-To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the following linear algebraic coordinate transformation-
+To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the four following linear algebraic coordinate transformation-
 
-  `starting at x = 0, y = 0 then iterate over one of these`      
-  `f1: xn+1 = 0 (chosen 1% of the time)`        
-  `    yn+1 = 0.16 yn`             
-  `f2: xn+1 = -0.15 xn + 0.28 yn (chosen 7% of the time)`          
-  `    yn+1 = 0.26 xn + 0.24 yn + 0.44`        
-  `f3: xn+1 = 0.2 xn - 0.26 yn (chosen 14% of the time)`       
-  `    yn+1 = 0.23 xn + 0.22 yn + 1.6`          
-  `f4: xn+1 = 0.85 xn + 0.04 yn (chosen 85% of the time)`    
-   `   yn+1 = -0.04 xn + 0.85 yn + 1.6`        
+  `Start-> f: xn = 0, yn = 0 (start and iterate from this point)`                    
+  `f1: xn+1 = 0, yn+1 = 0.16 yn (chosen 1% of the time)`                     
+  `f2: xn+1 = -0.15 xn + 0.28 yn, yn+1 = 0.26 xn + 0.24 yn + 0.44 (chosen 7% of the time)`                  
+  `f3: xn+1 = 0.2 xn - 0.26 yn,  yn+1 = 0.23 xn + 0.22 yn + 1.6 (chosen 14% of the time)`                   
+  `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6 (chosen 85% of the time)`               
 
 Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix.
 
