@@ -8,7 +8,7 @@ mathjax: "true"
 ---
 After learning about the Mandelbrot set, I wanted to play around with the very a basic fractal- Barnsley's Fern. Again, fractal geometry is based on the idea of scale invariance which means that a figure is the same, or is invariant, no matter on what scale it is observed. In other words, the figure is constructed by repeating the same pattern at smaller and smaller scales.
 
-The fern was first represented into a mathametical context by [Dr. Michael Barnsley (https://en.wikipedia.org/wiki/Michael_Barnsley). He first described it in his book "Fractals Everywhere." The fern is one of the basic examples of self-similar sets, i.e. it is a pattern that can be reproducible at any magnification or reduction. The fern code developed by Dr. Barnsley is an example of an iterated function system (IFS) to create a fractal. On a quick note, an IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. This type of fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system").
+The fern was first represented into a mathametical context by [Dr. Michael Barnsley](https://en.wikipedia.org/wiki/Michael_Barnsley). He first described it in his book "Fractals Everywhere." The fern is one of the basic examples of self-similar sets, i.e. it is a pattern that can be reproducible at any magnification or reduction. The fern code developed by Dr. Barnsley is an example of an iterated function system (IFS) to create a fractal. On a quick note, an IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. This type of fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system").
 
 Anyhow, let's talk about how I drew this fractal in open-source R. Also, please feel free to look through the **source code** by going [here](https://github.com/ToadHanks/barnsleys_fractal).
 
@@ -33,13 +33,16 @@ x <- rep(0, times=max_itr) #make vector of 0s
 y <- x #copy the vector
 
 # This creats f(x1,y1) = (0,0)
+#run the iteration to generate next points
 
-for (n in 2:(max_itr)) { #run the iteration to generate next points
+for (n in 2:(max_itr)) { 
 
-  # I have subtracted 1 at every iteration from n so I dont have to add
-  # 1 to f(x), basically subtracted it from both sides
-  
-  rand_num=runif(1, 0, 100) #generate a random number between 0-100
+# I have subtracted 1 at every iteration from n so I dont 
+# have to add 1 to f(x), basically subtracted it from both 
+# sides.
+
+  #generate a random number between 0-100
+  rand_num=runif(1, 0, 100) 
   
   if (rand_num < 1) { 
     x[n]<- 0
