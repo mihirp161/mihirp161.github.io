@@ -1,5 +1,5 @@
 ---
-title: "Making of the Barnsley's Fern with Base Tools in R"
+title: "The Barnsley's Fern with Base Tools in R"
 date: 2020-01-27
 tags: [Miscellaneous, R]
 header:
