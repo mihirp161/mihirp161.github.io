@@ -76,10 +76,6 @@ The plot is as simple as this-
 plot(x,y, pch='.', xlab= "", ylab = "", col= color)
 ```
 
-Here is a fractal created by Dr. Michael Barnsley-
-
-   <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/barn_original.png" alt="">
-
 Here is mine, looks good I think-
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/fern.png" alt="">
