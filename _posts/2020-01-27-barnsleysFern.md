@@ -28,7 +28,7 @@ To begin with, to make this kind of fractal, you would need some sort of 2D spac
   `(f4 is chosen 85% of the time)`     
   `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6`               
 
-Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix.
+Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix. Rather than storing the next points in the matrix, I have made a two vector x & y. Just like the matrix, vectors are arrays and works in similar fashion.
 
 In R, it looks something like this-
 
@@ -68,7 +68,9 @@ for (n in 2:(max_itr)) {
 }
 ```
 
-As you can see, the process itself is very simple once you get the points to store at the right place in a matrix. One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct Rachis (stalk) arch of the fern.
+As you can see, the process itself is very simple because unlike matrix, you can store points in linear manner ("Row-major-order") in these vectors. In matrix however, storing happens in "Column-major-order" by default, meaning, points will be in order of the first column in memory first, and then the second, and so forth. This method gets tricky.
+
+One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct Rachis (stalk) arch of the fern.
 
 The plot is as simple as this-
 
