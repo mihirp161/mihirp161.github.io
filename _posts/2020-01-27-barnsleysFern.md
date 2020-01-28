@@ -68,7 +68,7 @@ for (n in 2:(max_itr)) {
 }
 ```
 
-As you can see, the process itself is very simple because unlike matrix, you can store points in linear manner ("Row-major-order") in these vectors. In matrix however, storing happens in "Column-major-order" by default, meaning, points will be in order of the first column in memory first, and then the second, and so forth. This method gets tricky.
+As you can see, the process itself is very simple because unlike matrix, you can store points in linear manner, or "Row-major-order", in these vectors. In matrix however, storing happens in "Column-major-order" by default, meaning, points will be in order of the first column in memory first, and then the second, and so forth. This method gets tricky.
 
 One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct Rachis (stalk) arch of the fern.
 
