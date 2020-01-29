@@ -48,7 +48,7 @@ Because real numbers get exponentially large, we can use the complex numbers. Co
 
 A complex number is basically a real number added to an imaginary number. Imaginary numbers are not really imaginary, they have to follow the same underlying rule as the real numbers. So, when we add the two together, the result is not real nor imaginary, it is complex. 
 
-Anyhow, getting back to the track, since complex numbers don't really work well with 0s and 1s of computers, we have to convert the complex numbers to their standard form of expression by factoring out the -1.
+Anyhow, getting back on the track, since complex numbers don't really work well with 0s and 1s binaries, we have to convert the complex numbers to their standard form of expression by factoring out the -1.
 For example-  
 
 `Solve: 2 + sqrt(-9)`   
@@ -82,17 +82,11 @@ mandelbrot <<- function(i,j){
 
 Therefore whenever any number that resides between `(-2,1)`, in a complex plane that doesn't cause an exponential growth, and become a circle with radius 2.     
 
-In both graphs below, this nature is in black-     
-
-1. Here is a fractal created by Dr.Benoit Mandelbrot:
-
-   <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/original_fractal.jpg" alt="">
-
-2. Here is the fractal I've made, looks very bad:
+In the graph below, this nature is in black "zone"-     
 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
 
-Now you might be wondering, why is there varying colour hue around the black regions? In a nutshell, the region with similar colour is the numbers that have escaped the black region. Meaning, they are all the numbers which are not part of the set 
+Now you might be wondering, why is there varying colour hue around the black regions (you may have to zoom in)? In a nutshell, the region with similar colour is consisted of the numbers that have escaped the black region. Meaning, they are all the numbers which are not part of the set 
 `F= {x^2 + c|x is any number, and -2< x <1}` with given iteration. As we increased the iterations, we get more and more numbers escaping, thus creating the Mandelbrot fractal. 
 
 Even though code for this looks small (and unoptimized), it took 4-5 hrs to get the graph done. If you liked this post, and want to learn more about Mandelbrot Set, please go [here](https://en.wikipedia.org/wiki/Mandelbrot_set) to read more about them.
