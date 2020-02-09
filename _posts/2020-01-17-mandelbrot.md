@@ -3,7 +3,7 @@ title: "the Mandelbrot Set with Base Tools in R"
 date: 2020-01-17
 tags: [Miscellaneous, R]
 header:
-excerpt: "Complex Numbers, Linear Algebra, Mandelbrot Set, Fractal"
+excerpt: "Complex Numbers, Linear Algebra, the Mandelbrot Set, Fractal"
 mathjax: "true"
 ---
 In this project, I wanted to play around with the very first fractal- Mandelbrot Set. Fractals are geometric shapes that when divided into parts, each part would be a smaller replica of the whole shape just like the atoms, or fiber in leaves, or the human dna. Fractals let us visualize nature in some sense. Of course, if you're talking about fractals, then you have to start with the "father of fractals," [Dr. Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot#Developing_"fractal_geometry"_and_the_Mandelbrot_set). He was first to coin this bizarre term, and explained how we can mimic and see patterns in nature and even patterns present in cosmos. Anyways, let's talk about how I drew this fractal.
