@@ -3,7 +3,7 @@ title: "the Barnsley's Fern with Base Tools in R"
 date: 2020-01-27
 tags: [Miscellaneous, R]
 header:
-excerpt: "Complex Numbers, Linear Algebra, Fern, Fractal"
+excerpt: "Complex Numbers, Linear Algebra, the Barnsley Fern, Fractal"
 mathjax: "true"
 ---
 After learning about the Mandelbrot set, I wanted to play around with the very a basic fractal- Barnsley's Fern. Again, fractal geometry is based on the idea of scale invariance which means that a figure is the same, or is invariant, no matter on what scale it is observed. In other words, the figure is constructed by repeating the same pattern at smaller and smaller scales.
