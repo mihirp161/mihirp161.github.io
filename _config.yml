@@ -119,7 +119,7 @@ footer:
       url:  "https://twitter.com/ToadHanks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "ToadHanks"
+      url:  "https://github.com/ToadHanks"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
