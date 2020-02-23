@@ -35,22 +35,28 @@ header:
 
 ## Experience      
 
-**Research** *Undergraduate Research Assistant* __2019 to present__     
-	Designed a script for static & dynamic network graphs of emojis for analysis.
-	Created a script to map 311 data to see which areas are putting strains on the dispatchers.     
-	Collaborated with team members to formulate problem solutions on ongoing works.     
-	**Technical Environment** R, SQL, JavaScript.      
-	**Analytical Environment** Linear Algebra, Trignometry.      
+**Research** *Undergraduate Research Assistant* __2019 to present__  
+      
+	Designed a script for static & dynamic network graphs of emojis for analysis.     
+	Created a script to map 311 data to see which areas are putting strains on the dispatchers.       
+	Collaborated with team members to formulate problem solutions on ongoing works.        
+	**Technical Environment** R, SQL, JavaScript.         
+	**Analytical Environment** Linear Algebra, Trignometry.         
 
-**Tutoring** *Hillsborough Community College* __2014 to present__      
-	Assist students taking courses such as Raptor, C/C++, Python and Java.
-	Help students with Statistics, Algebra, and Pre-Calculus assignments.
-	Partake in after-school study groups by clearing doubts or explaining subject covered in various topics.      
+**Tutoring** *Hillsborough Community College* __2014 to present__    
+     
+	Assist students taking courses such as Raptor, C/C++, Python and Java.        
+	Help students with Statistics, Algebra, and Pre-Calculus assignments.       
+	Partake in after-school study groups by clearing doubts or explaining subject covered in various topics.       
 
-**Coursework** *Academic & Independent Study* __2014 to 2020__      
+**Coursework** *Academic & Independent Study* __2014 to 2020__  
+      
 	**Mathematics** Algebra, Pre-calculus & Trigonometry, Calculus I-II-III, Differential Equations, Statistics, Advanced Statistics & Analytics, Engineering Economics, Macro Economics, Linear Algebra, and Discreet Mathematics.     
-	**Sciences** Physics I-II with Calculus, Chemistry I, Marine Biology, Sociology, Psychology, Computer Organizations, Program Design with C, Data Science with R, Objective Oriented Programming with C++, and Data Structures & Algorithms with C++.     
-	**Arts & Social Sciences** English I-II, Engineering Communications, Psychology, Sociology, and Public Speaking.    
+	     
+	**Sciences** Physics I-II with Calculus, Chemistry I, Marine Biology, Sociology, Psychology, Computer Organizations, Program Design with C, Data Science with R, Objective Oriented Programming with C++, and Data Structures & Algorithms with C++. 
+	      
+	**Arts & Social Sciences** English I-II, Engineering Communications, Psychology, Sociology, and Public Speaking.  
+	      
 	**Certificates**  R, Python, C++, SQL, JavaScript.             
 
 ------
