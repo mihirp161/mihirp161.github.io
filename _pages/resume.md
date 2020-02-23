@@ -4,7 +4,7 @@ permalink: /resume/
 author_profile: true 
 header:  
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/onlydraft.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/onlydaraft.png" alt="">
 # Mihir K Patel     
 ### Data Science & Analytics Student      
 
