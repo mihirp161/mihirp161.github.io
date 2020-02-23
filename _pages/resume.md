@@ -4,6 +4,8 @@ permalink: /resume/
 author_profile: true
 header: 
 ---
+- - - -
+
 <center><span style="font-family:Didot; font-size:2.5em;">Mihir K. Patel</span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">Website: toadhanks.github.io</span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">Github: ToadHanks</span></center>
