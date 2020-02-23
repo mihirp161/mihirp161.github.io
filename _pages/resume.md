@@ -7,9 +7,9 @@ header:
 - - - -
 
 <center><span style="font-family:Didot; font-size:2.5em;">Mihir K. Patel</span></center>
-Website: [toadhanks.github.io](https://toadhanks.github.io/)|
-Github: [ToadHanks](https://github.com/ToadHanks)|
-LinkedIn: [in/mihir-patel-tampabay](https://www.linkedin.com/in/mihir-patel-tampabay/)
+**Website:** [toadhanks.github.io](https://toadhanks.github.io/)      |
+**Github:** [ToadHanks](https://github.com/ToadHanks)     |
+**LinkedIn:** [in/mihir-patel-tampabay](https://www.linkedin.com/in/mihir-patel-tampabay/)
 <center><span style="font-family:Didot; font-size:1.5em;">Tampa, FL USA
 </span></center>
 
