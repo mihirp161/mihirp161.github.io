@@ -4,8 +4,9 @@ permalink: /resume/
 author_profile: true 
 header:  
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/images/onlydraft.png" alt="">
 # Mihir K Patel     
-## Data Science & Analytics Student      
+### Data Science & Analytics Student      
 
 > [GitHub: ToadHanks](https://github.com/ToadHanks)      
 > [LinkedIn: in/mihir-patel-tampabay](https://www.linkedin.com/in/mihir-patel-tampabay/)      
@@ -13,7 +14,7 @@ header:
 
 ------
 
-### Technical      
+## Technical      
 
 1. R     
 1. Python     
@@ -24,9 +25,7 @@ header:
 
 ------
 
-------
-
-### Analytical      
+## Analytical      
 
 1. Statistics     
 1. Linear Algebra      
@@ -34,7 +33,7 @@ header:
 
 ------
 
-### Experience      
+## Experience      
 
 **Research** *Undergraduate Research Assistant* __2019 to present__     
 	Designed a script for static & dynamic network graphs of emojis for analysis.
@@ -56,7 +55,7 @@ header:
 
 ------
 
-### I CAN!
+## I CAN!
 
 - Communicate my ideas effectively, and formulate solutions (or workarounds)through research and background knowledge.     
 - Work and contribute towards a team’s success.     
@@ -65,7 +64,7 @@ header:
 
 ------
 
-### Education
+## Education
 
 **Bachelor of Data Science & Analytics** __2019 to Now__     
 	University of South Florida, Tampa, FL     
@@ -78,13 +77,13 @@ header:
 
 ------
 
-### Intrests      
+## Intrests      
 
-	All-things-data, Fractals, Machine Learning, Bayesian Statistics, Visual Information Processing & Analysis, Game-theory, hating Java     
+All-things-data, Fractals, Machine Learning, Bayesian Statistics, Visual Information Processing & Analysis, Game-theory, hating Java     
 
 ------
 
-### Awards     
+## Awards     
 
 **Dean's List** __Spring__      
 	'15, '16, '18      
