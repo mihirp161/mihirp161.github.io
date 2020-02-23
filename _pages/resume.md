@@ -1,3 +1,9 @@
+--- 
+title: "Résumé" 
+permalink: /resume/ 
+author_profile: true 
+header:  
+---
 # Mihir K Patel     
 ## Data Science & Analytics Student      
 
