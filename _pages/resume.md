@@ -4,29 +4,29 @@ permalink: /resume/
 author_profile: true
 header: 
 ---
-- - - -
 
-<center><span style="font-family:Didot; font-size:2.5em;">Mihir K. Patel</span></center>
-**Website:** [toadhanks.github.io](https://toadhanks.github.io/)      |
-**Github:** [ToadHanks](https://github.com/ToadHanks)     |
-**LinkedIn:** [in/mihir-patel-tampabay](https://www.linkedin.com/in/mihir-patel-tampabay/)
-<center><span style="font-family:Didot; font-size:1.5em;">Tampa, FL USA
-</span></center>
+Mihir K Patel
+============
 
-<span style="font-family:Didot; font-size:2em;">Education</span>
-<br />
+-------------------     ----------------------------
+Github                                     ToadHanks
+LinkedIn                     in/mihir-patel-tampabay
+Twitter                                   @toadhanks
+Website                          toadhanks.github.io
+-------------------     ----------------------------
 
-- - - -
+Education
+---------
 
-`2013-2016`
-__Hillsborough Community College, Tampa__
+2016-2020(expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-- Associates in Engineering (Complete)
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
-`August 2016 - now`
-__University of South Florida, Tampa__
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
-- Bachelors in Data Science & Analytics (In-Progress)
-- Bachelors in Computer Science (Non-Degree)
-- Bachelors in Engineering (Incomplete)
+    *Minor: Awesomeology*
 
