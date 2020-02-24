@@ -270,3 +270,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+# _cv
+  - scope:
+      path: ""
+      type: CV
+    values:
+      layout: single
+      author_profile: true
+      share: true
