@@ -273,8 +273,8 @@ defaults:
 # _cv
   - scope:
       path: ""
-      type: CV
+      type: cv
     values:
-      layout: single
+      layout: cv
       author_profile: true
       share: true
