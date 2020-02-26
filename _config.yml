@@ -1,7 +1,7 @@
 # Original author: Michael Rose
 # Editor: Mihir Patel
 # theme                  : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "dirt", "dark", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
