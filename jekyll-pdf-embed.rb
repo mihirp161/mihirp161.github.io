@@ -1,3 +1,5 @@
+#Author: Mihir Patel
+
 require "jekyll"
 
 class PDFEmbed < Liquid::Tag
