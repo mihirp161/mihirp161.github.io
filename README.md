@@ -16,4 +16,4 @@ Mihir Patel
 
 Special Thanks
 --------------
-Jekyll (https://github.com/jekyll/jekyll) & Michael Rose (https://github.com/mmistakes) for GitHub Pages tools.
+[Jekyll](https://github.com/jekyll/jekyll) & [Michael Rose](https://github.com/mmistakes) for GitHub Pages tools.
