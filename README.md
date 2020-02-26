@@ -8,7 +8,7 @@ A portfolio containing some of my favourite projects.
 
 Status
 --------
-Work-in-progress {*Overhaul is in works*}         
+Work-in-progress
 
 Author & Editor
 -------------
