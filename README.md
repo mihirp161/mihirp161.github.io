@@ -14,6 +14,10 @@ Author & Editor
 -------------
 Mihir Patel
 
-Special Thanks
---------------
-[Jekyll](https://github.com/jekyll/jekyll) & [Michael Rose](https://github.com/mmistakes) for GitHub Pages tools.
+LICENSE
+-------
+[LICENSE]https://github.com/ToadHanks/ToadHanks.github.io/blob/master/LICENSE
+
+Resources
+----------
+[Jekyll](https://github.com/jekyll/jekyll) & [Michael Rose](https://github.com/mmistakes) for GitHub Pages theme.
