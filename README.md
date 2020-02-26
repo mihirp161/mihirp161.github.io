@@ -1,10 +1,10 @@
-Project
+Website
 -------
 https://ToadHanks.github.io/
 
 Project Description
 -----------------
-A portfolio containing some of my favourite projects. 
+A portfolio containing some of my posts. 
 
 Status
 --------
