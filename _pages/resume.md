@@ -4,4 +4,4 @@ permalink: /resume/
 author_profile: true 
 header:  
 ---
-<embed src="https://ToadHanks.github.io/images/mihir_resume_2019_git.pdf" width= "840" height= "840" type="application/pdf"/>
+<embed src="https://ToadHanks.github.io/images/mihir_resume_2019_git.pdf" width= "840" height= "845" type="application/pdf"/>
