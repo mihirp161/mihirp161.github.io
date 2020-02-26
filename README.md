@@ -16,7 +16,7 @@ Mihir Patel
 
 LICENSE
 -------
-[LICENSE]https://github.com/ToadHanks/ToadHanks.github.io/blob/master/LICENSE
+[LICENSE](https://github.com/ToadHanks/ToadHanks.github.io/blob/master/LICENSE)
 
 Resources
 ----------
