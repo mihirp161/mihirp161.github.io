@@ -14,7 +14,7 @@ Author & Editor
 -------------
 Mihir Patel
 
-LICENSE
+License
 -------
 [LICENSE](https://github.com/ToadHanks/ToadHanks.github.io/blob/master/LICENSE)
 
