@@ -83,9 +83,9 @@ mandelbrot <<- function(i,j){
 Therefore whenever any number that resides between `(-2,1)`, in a complex plane that doesn't cause an exponential growth, and become a circle with radius 2.     
 
 In the graph below, this nature is in black region-     
-
+<p align="center"> 
    <img src="{{ site.url }}{{ site.baseurl }}/images/mandelbrot/mandelbrot_bad.png" alt="">
-
+</p>
 Now you might be wondering, why is there varying, sort of pear-like patterns, colour hue around the black region (you may have to zoom in)? In a nutshell, the region with similar colour is consisted of the numbers that have escaped the black region. Meaning, they are all the numbers which are part of the set `F= {x^2 + c|x is any number, and -2< x <1}` with given iteration. As we increased the iterations, we get more and more numbers escaping, thus creating the Mandelbrot fractal. 
 
 Even though code for this looks small (and unoptimized), it took 4-5 hrs to get the graph done. If you liked this post, and want to learn more about Mandelbrot Set, please go [here](https://en.wikipedia.org/wiki/Mandelbrot_set) to read more about them.
