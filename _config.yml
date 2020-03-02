@@ -10,7 +10,7 @@ title_separator          : "-"
 subtitle                 : "(not a doctor 🤫)"
 name                     : "Mihir Patel"
 #description              : ""
-url                      : "https://ToadHanks.github.io"
+url                      : "https://opendatasurgeon.github.io"
 baseurl                  : # the subpath of my site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -73,7 +73,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "ToadHanks"
+  username               : "opendatasurgeon"
 
 # Analytics
 analytics:
@@ -98,10 +98,10 @@ author:
     #  url: "Undergrad page TBA"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ToadHanks"
+      url: "https://twitter.com/opendatasurgeon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ToadHanks"
+      url: "https://github.com/opendatasurgeon"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
@@ -115,10 +115,10 @@ footer:
       url: mailto:mihirp161@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:  "https://twitter.com/ToadHanks"
+      url:  "https://twitter.com/opendatasurgeon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "https://github.com/ToadHanks"
+      url:  "https://github.com/opendatasurgeon"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/mihir-patel-tampabay/"
