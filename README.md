@@ -16,7 +16,7 @@ Mihir Patel
 
 License
 -------
-[LICENSE](https://github.com/ToadHanks/ToadHanks.github.io/blob/master/LICENSE)
+[LICENSE](https://github.com/opendatasurgeon/opendatasurgeon.github.io/blob/master/LICENSE)
 
 Resources
 ----------
