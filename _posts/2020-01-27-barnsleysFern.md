@@ -10,7 +10,7 @@ After learning about the Mandelbrot set, I wanted to play around with the very a
 
 The fern was first represented into a mathametical context by [Dr. Michael Barnsley](https://en.wikipedia.org/wiki/Michael_Barnsley). He first described it in his book "Fractals Everywhere." The fern is one of the basic examples of self-similar sets, i.e. it is a pattern that can be reproducible at any magnification or reduction. The fern code developed by Dr. Barnsley is an example of an iterated function system (IFS) to create a fractal. On a quick note, an IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. This type of fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system").
 
-Anyhow, let's talk about how I drew this fractal in open-source R. Also, please feel free to look through the **source code** by going [here](https://github.com/ToadHanks/barnsleys_fractal_R).
+Anyhow, let's talk about how I drew this fractal in open-source R. Also, please feel free to look through the **source code** by going [here](https://github.com/opendatasurgeon/barnsleys_fractal_R).
 
 To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the four following linear algebraic coordinate transformation-
 
