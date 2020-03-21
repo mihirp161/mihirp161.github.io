@@ -6,7 +6,7 @@ header:
 excerpt: "Investigative Analysis, Web-scraping, ggplot2"
 mathjax: "true"
 ---
-Oh, hello there! I hope you're having a lovely day in the confines of your vicinity (thanks to the COVID-19) and maintaining social distancing. Furthermore, please also wash your hands for 20 seconds and don't touch your face! Handwashing is more effective and is recommended than applying a hand sanitizer on your hands. Anyways, have you seen the new Google Doodle yet? Today's doodle looks like this:     
+Oh, hello there! I hope you're having a lovely day in the confines of your vicinity (thanks to the COVID-19) and maintaining social distancing. Furthermore, please also wash your hands for 20 seconds and don't touch your face! Handwashing is more effective and is recommended than applying a hand sanitizer on your hands. Anyways, have you seen the [new Google Doodle](https://www.google.com/doodles/recognizing-ignaz-semmelweis-and-handwashing) yet? Today's doodle looks like this:     
 
 <p align="center"> 
    <img src="{{ site.url }}{{ site.baseurl }}/images/handwashing/doodle.png" alt="">
@@ -90,7 +90,7 @@ Code chunk above produces the image where we see how mortality rates of puerpera
 </p>
 
 If you would like to see my **source code**, you can find it [here](https://github.com/opendatasurgeon/HandwashingAnalysis_r).        
-That's all for this post and if you want to learn more about Dr Ignaz Semmelweis, you can go [here](https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever#Monthly_mortality_rates_for_birthgiving_women_1841%E2%80%931849). And if you find today's Google doodle interesting, you can head [here](https://www.google.com/doodles/recognizing-ignaz-semmelweis-and-handwashing) to play with it and explore the rest of the details.    
+That's all for this post and if you want to learn more about Dr Ignaz Semmelweis, you can go [here](https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever#Monthly_mortality_rates_for_birthgiving_women_1841%E2%80%931849).    
 
 Please take care of yourself and your family while maintaining the social distancing for awhile. We all play an important role and our contribution will allow hospitals to focus on the ills and those who are in danger of losing their lives. Let's [#flattenthecurve](https://twitter.com/hashtag/flattenthecurve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag) & STOP BUYING BLOODY TOILET PAPERS!
 
