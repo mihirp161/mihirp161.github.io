@@ -12,7 +12,7 @@ Oh, hello there! I hope you're having a lovely day in the confines of your vicin
    <img src="{{ site.url }}{{ site.baseurl }}/images/handwashing/doodle.png" alt="">
 </p>
 
-You might be wondering, *"So who is this person wearing two ties?"* Well, he is Dr Ignaz Semmelweis, no he is not wearing two ties. Something wrong with you?    
+You might be wondering, *"So who is this person wearing two ties?"* Well, he is Dr Ignaz Semmelweis, and no he is not wearing two ties. Is there something wrong with you?    
    
 Our history blesses him as the "father of the handwashing movement." Dr Ignaz Semmelweis worked at the Vienna General Hospital's maternity clinic on a 3-year contract from 1846–1849. There, as elsewhere in European and North American hospitals, puerperal fever, or childbed fever, was rampant, sometimes climbing to 40 per cent of admitted patients. He was disturbed by these mortality rates, and eventually developed a theory of infection, in which he theorized that decaying matter on the hands of doctors, who had recently conducted autopsies, was brought into contact with the genitals of birth-giving women during the medical examinations at the maternity clinic. He proposed a radical hand washing system using chlorinated lime, now a known disinfectant.     
 
