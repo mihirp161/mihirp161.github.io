@@ -1,6 +1,6 @@
 ---
-title: "Recognizing Ignaz Semmelweis & Handwashing"
-date: 2020-02-16
+title: "Recognizing Dr. Ignaz Semmelweis & Handwashing"
+date: 2020-03-20
 tags: [Miscellaneous, R]
 header:
 excerpt: "Analysis, Web-scraping, ggplot2"
