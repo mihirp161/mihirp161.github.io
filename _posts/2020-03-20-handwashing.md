@@ -90,9 +90,9 @@ magick::image_write("handwashing_graph.png")
 </p>
 
 If you would like to see my **source code**, you can find it [here](https://github.com/opendatasurgeon/HandwashingAnalysis_r)!    
-That's all for this post, and if you want to learn more about Dr. Ignaz Semmelweis, go [here](https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever#Monthly_mortality_rates_for_birthgiving_women_1841%E2%80%931849). And if you find the Google doodle intresting, you can go []() to play with it. 
+That's all for this post, and if you want to learn more about Dr. Ignaz Semmelweis, go [here](https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever#Monthly_mortality_rates_for_birthgiving_women_1841%E2%80%931849). And if you find the Google doodle intresting, you can go [here](https://www.google.com/doodles/recognizing-ignaz-semmelweis-and-handwashing) to play with it. 
 
-Please take care of yourself and your family! Maintain the social distancing for awhile. We can play an important role and our contribution will allow hospitals to focus on the ills and those who are in danger. #flattenthecurve & STOP BUYING BLODDY TOILET PAPERS!!
+Please take care of yourself and your family! Maintain the social distancing for awhile. We can play an important role and our contribution will allow hospitals to focus on the ills and those who are in danger. [#flattenthecurve](https://twitter.com/hashtag/flattenthecurve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag) & STOP BUYING BLODDY TOILET PAPERS!!
 
 **NOTE**: Thank you very much for reading! If you discover any mistakes or want to offer any feedback, please feel free to email me.
 {: .notice--success}
