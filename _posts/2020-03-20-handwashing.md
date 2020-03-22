@@ -6,7 +6,7 @@ header:
 excerpt: "Investigative Analysis, Web-scraping, ggplot2"
 mathjax: "true"
 ---
-Oh, hello there! I hope you're having a lovely day in the confines of your vicinity (thanks to the COVID-19) and maintaining social distancing. Furthermore, please also wash your hands for 20 seconds and don't touch your face! Handwashing is more effective and is recommended than applying a hand sanitizer on your hands. Anyways, have you seen the [new Google Doodle](https://www.google.com/doodles/recognizing-ignaz-semmelweis-and-handwashing) yet? Today's doodle looks like this:     
+Oh, hello there! I hope you're having a lovely day in the confines of your vicinity (thanks to the COVID-19/CCP Virus) and maintaining social distancing. Furthermore, please also wash your hands for 20 seconds and don't touch your face! Handwashing is more effective and is recommended than applying a hand sanitizer on your hands. Anyways, have you seen the [new Google Doodle](https://www.google.com/doodles/recognizing-ignaz-semmelweis-and-handwashing) yet? Today's doodle looks like this:     
 
 <p align="center"> 
    <img src="{{ site.url }}{{ site.baseurl }}/images/handwashing/doodle.png" alt="">
