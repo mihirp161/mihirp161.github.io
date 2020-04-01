@@ -3,9 +3,9 @@ title: "About"
 permalink: /about/
 header:
 ---
-I am currently a senior undergraduate student at the University of South Florida. I adore all things data and fractals very much!
+I am currently a senior undergraduate student at the University of South Florida. I adore all things data and randomness life throws at me very much!
 
-On the side, I am work as an Undergraduate Research Assistant. Most of my tasks involve writing code-scripts, then presenting the data visually and statistically. Furthermore, I also assist students in programming, math and statistics courses at the Hillsborough Community College. I like to learn, collaborate and teamwork, therefore, I thoroughly enjoy my daily activities.
+On the side, I am work as an Undergraduate Research Assistant. Most of my tasks involve writing code-scripts, then presenting the data visually and qualitatively to my team. Furthermore, I also assist students in programming, math and statistics courses at the Hillsborough Community College. I like to learn, collaborate and teamwork, therefore, I thoroughly enjoy my daily activities.
 
 I am looking for an exciting internship/job opportunity in the data science & analytics field. Lastly, I will leave [my traits](https://opendatasurgeon.github.io/), which are on my home page, to your interpretations.
 
