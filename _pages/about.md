@@ -9,6 +9,6 @@ On the side, I am working as an Undergraduate Research Assistant. Most of my tas
        
 In my free time, I enjoy movies made by The Wachowskis sisters, music produced by Deep Forest and love to play nothing but Age of Empires videogames.    
      
-I am looking for an exciting internship/job opportunity in the data science & analytics field. Lastly, I will leave [my traits](https://opendatasurgeon.github.io/), which are on my home page, to your interpretations.
+I am looking for an internship/job opportunity *(any type)* in the data science & analytics field. Finally, I will leave [my traits](https://opendatasurgeon.github.io/), which are on my home page, to your interpretations.
 
 Thank you & have a nice day!
