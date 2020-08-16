@@ -4,7 +4,7 @@ https://opendatasurgeon.github.io/
 
 Project Description
 -----------------
-A portfolio containing some of my blogs where I talk about a project and everything about it. 
+A portfolio containing some of my blogs where I talk about any of my project and everything about it. 
 
 Status
 --------
