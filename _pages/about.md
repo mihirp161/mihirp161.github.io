@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 header:
 ---
-I am currently a senior undergraduate student at the University of South Florida. I adore all things data and randomness life throws at me very much!
+I am currently a senior undergraduate student at the University of South Florida. I adore all things data and randomness life throws at me dearly!
 
 I have done a Summer Research Internship at the University of South Florida under [Dr. Loni Hagen](https://scholar.google.com/citations?user=eVzJHmkAAAAJ&hl=en). Currently, I work as an Undergraduate Research Assistant. Most of my tasks involve writing code-scripts, then presenting the data visually and qualitatively to my team. Furthermore, I also assist students in programming, math and statistics courses at the Hillsborough Community College. I like to learn, collaborate and teamwork, therefore, I thoroughly enjoy my daily activities.
        
