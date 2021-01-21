@@ -14,5 +14,3 @@ Proficient in R, Python, SQL, Tableau, Excel, C++, however, can quickly learn ne
 I enjoy reading what goes around the world (esp. in regions of East Asia, South Asia and the South East Asia) in free-time. 
 
 Always ready for collabrating. Learning. Growing. 
-
-Cherish all the randomness in life.
