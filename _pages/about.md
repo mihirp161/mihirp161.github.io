@@ -3,12 +3,15 @@ title: "About"
 permalink: /about/
 header:
 ---
-I am currently a senior undergraduate student at the University of South Florida. I adore all things data and randomness life throws at me dearly!
+Designed in India. Made in the USA. Thank you for stopping by.
 
-I have done a Summer Research Internship at the University of South Florida under [Dr. Loni Hagen](https://scholar.google.com/citations?user=eVzJHmkAAAAJ&hl=en). Currently, I work as an Undergraduate Research Assistant. Most of my tasks involve writing code-scripts, then presenting the data visually and qualitatively to my team. Furthermore, I also assist students in programming, math and statistics courses at the Hillsborough Community College. I like to learn, collaborate and teamwork, therefore, I thoroughly enjoy my daily activities.
-       
-In my free time, I read what goes around the world (esp. in regions of East Asia, South Asia, South East Asia, and Middle East). I also like to play chess and Age of Empires.       
-     
-I would welcome any internship/job opportunity in the data science & analytics field. Finally, I will leave [my traits](https://opendatasurgeon.github.io/), which are on my home page, to your interpretations.
+I'm Mihir Patel, a recent grad from Tampa, currently working as a [tutor](https://www.hccfl.edu/support-services/academic-success-centers) and a [research assistant](https://scholar.google.com/citations?user=eVzJHmkAAAAJ&hl=en) at the Hillsborough Community College and the University of South Florida, respectively. 
 
-Thank you & have a nice day!
+Been fortunate enough to gain and share knowledge in the academic space for six-plus years, but the time has come to see what is going on outside of academia.
+
+Proficient in R, Python, SQL, Tableau, Excel, C++, however, can quickly learn new stuff.
+
+I enjoy reading what goes around the world (esp. in regions of East Asia, South Asia and the South East Asia) in free-time. 
+
+Always ready for collabrating. Learning. Growing. 
+Cherish all the randomness in life.
