@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 header:
 ---
-Designed in India. Made in the USA. Thank you for stopping by.
+Designed in India. Made in the USA.
 
 I'm Mihir Patel, a recent grad from Tampa, currently working as a data analyst at [the South Florida Water Management District](https://www.sfwmd.gov/). 
 
@@ -18,3 +18,5 @@ I enjoy reading what goes around the world (esp. in regions of East Asia, South 
 Want to get into generative art sometime soon. Cool stuff.
 
 Always ready for collabrating. Learning. Growing. 
+
+Thank you for stopping by.
