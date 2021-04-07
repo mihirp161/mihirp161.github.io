@@ -5,7 +5,7 @@ header:
 ---
 Designed in India. Made in the USA.
 
-I'm Mihir Patel, a recent grad from Tampa, currently working as a data analyst at [the South Florida Water Management District](https://www.swfwmd.state.fl.us/). 
+I'm Mihir Patel, a recent grad from Tampa, currently working as a data analyst at [the Southwest Florida Water Management District](https://www.swfwmd.state.fl.us/). 
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
