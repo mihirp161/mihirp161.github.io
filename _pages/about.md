@@ -4,7 +4,7 @@ permalink: /about/
 header:
 ---
 Designed in India. Made in the USA.\
-<sub><sup>*(I know it's cringey, but please go with it.)*</sub></sup>
+<sup>*(I know it's cringey, but please go with it.)*</sub>
 
 I'm Mihir Patel, a recent grad from Tampa, currently working as a data analyst at [the Southwest Florida Water Management District](https://www.swfwmd.state.fl.us/). 
 
