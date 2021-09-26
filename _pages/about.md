@@ -6,7 +6,7 @@ header:
 Designed in India. Made in the USA.\
 <sup><sup>*(I know it's cringey, but please go with it.)*</sup></sup>
 
-I'm Mihir Patel, a recent grad from Tampa, currently working as a data scientist at [Luminosity, Inc.](http://luminosity-solutions.com/). 
+I'm Mihir Patel, a recent grad from Tampa, currently working as a data scientist at [Luminosity, Inc.](http://luminosity-solutions.com/)
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
