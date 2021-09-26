@@ -6,7 +6,7 @@ header:
 Designed in India. Made in the USA.\
 <sup><sup>*(I know it's cringey, but please go with it.)*</sup></sup>
 
-I'm Mihir Patel, a recent grad from Tampa, currently working as a data analyst at [the Southwest Florida Water Management District](https://www.swfwmd.state.fl.us/). 
+I'm Mihir Patel, a recent grad from Tampa, currently working as a data scientist at [Luminosity, Inc.](http://luminosity-solutions.com/). 
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
@@ -16,7 +16,7 @@ Proficient in R, Python, SQL, Tableau, Excel, C++, however, can quickly learn ne
 
 I enjoy reading what goes around the world (esp. in regions of East Asia, South Asia and the South East Asia) in free-time. 
 
-Want to get into generative art sometime soon. Cool stuff.
+Want to get into generative art sometime soon (I promise). Cool stuff.
 
 Always ready for collabrating. Learning. Growing. 
 
