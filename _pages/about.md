@@ -16,7 +16,7 @@ Proficient in R, Python, SQL, Tableau, Excel, C++, however, can quickly learn ne
 
 I enjoy reading what goes around the world (esp. in regions of East Asia, South Asia and the South East Asia) in free-time. 
 
-Want to get into generative art sometime soon (I promise). Cool stuff.
+Want to get into generative art sometime soon. Cool stuff.
 
 Always ready for collabrating. Learning. Growing. 
 
