@@ -10,10 +10,6 @@ Status
 --------
 Work-in-progress
 
-Author & Editor
--------------
-Mihir Patel
-
 License
 -------
 [LICENSE](https://github.com/opendatasurgeon/opendatasurgeon.github.io/blob/master/LICENSE)
