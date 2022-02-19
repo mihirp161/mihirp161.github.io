@@ -10,9 +10,11 @@ I'm Mihir Patel, a recent grad from Tampa, currently working as a data scientist
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
-Worked as a [tutor](https://www.hccfl.edu/support-services/academic-success-centers) and a [research assistant](https://lonihagen.wordpress.com/) at the Hillsborough Community College and the University of South Florida, respectively.
+Worked as a Data Analyst at [SWFWMD](https://www.swfwmd.state.fl.us/).
 
-Proficient in R, Python, SQL, Tableau, Excel, C++, however, can quickly learn new stuff.
+Also was a [tutor](https://www.hccfl.edu/support-services/academic-success-centers) and a [research assistant](https://lonihagen.wordpress.com/) at the Hillsborough Community College and the University of South Florida, respectively.
+
+Proficient in R, Python, SQL, Tableau, Power BI, Shiny, Excel, C++; however, can quickly learn new stuff.
 
 I enjoy reading what goes around the world (esp. in regions of East Asia, South Asia and the South East Asia) in free-time. 
 
