@@ -6,7 +6,7 @@ header:
 Designed in India. Made in the USA.\
 <sup><sup>*(I know it's cringey, but please go with it.)*</sup></sup>
 
-I'm Mihir Patel, a Data Scientist from Tampa, currently seeking further education in computer science from UF-Online.
+I’m Mihir Patel, a Data Scientist from Tampa, currently pursuing further education in Computer Science through UF-Online.
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
