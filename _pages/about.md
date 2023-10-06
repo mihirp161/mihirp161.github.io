@@ -10,6 +10,8 @@ I’m Mihir Patel, a Data Scientist from Tampa, currently pursuing further educa
 
 Been fortunate enough to gain and share knowledge in the academic space for six-plus years.
 
+Working as a Data Engineer at [CAE USA Inc](https://www.cae.com/cae-usa/). :)
+
 Worked as a Data Scientist at [Luminosity, Inc.](http://luminosity-solutions.com/).
 
 Worked as a Data Analyst at [SWFWMD](https://www.swfwmd.state.fl.us/).
