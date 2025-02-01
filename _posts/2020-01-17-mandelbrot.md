@@ -13,6 +13,7 @@ Ever wondered how nature creates its intricate patterns - from DNA molecules to 
 **Understanding the Mathematics**
 
 At its core, the Mandelbrot Set is a collection of numbers with fascinating properties. The magic happens when we work with the expression:
+
 ```F = {x² + c | x is any number, and -2 < x < 1}```
 
 This seemingly simple formula creates complex behavior due to two fundamental algebraic rules:
