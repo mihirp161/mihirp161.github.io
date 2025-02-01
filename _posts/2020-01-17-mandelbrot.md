@@ -45,8 +45,11 @@ mandelbrot <<- function(i,j){
   a <- complex(real = x/200, imaginary = y/200) #real numbers
   b <- complex(real = 0, imaginary = 0) #imaginary numbers
   # extra code
-  b <- b*b+a  # expression
-  # extra code
+  for(...){
+    b <- b*b+a # iterate over expression
+    # extra code
+  }
+ # extra code
 }
 ```
 
