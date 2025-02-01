@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Nature's Pattern: Creating the Mandelbrot Set Fractal"
+title: "Creating the Mandelbrot Set Fractal"
 date: 2020-01-17
 tags: [Miscellaneous, R]
 header:
