@@ -60,7 +60,7 @@ When plotted on a complex plane (where the x-axis represents real numbers and th
 
 The black region in the image shows the Mandelbrot Set itself. The varying colors around it (zoom in to see the pear-like patterns) represent numbers that "escaped" the set during different iterations. Each color band contains numbers that escaped at similar times, creating this stunning fractal pattern.
 Despite the relatively simple code, rendering this visualization took 4-5 hours - a testament to the computational complexity behind this mathematical beauty.
-Want to dive deeper into the fascinating world of the Mandelbrot Set? Check out the detailed Wikipedia article.
+Want to dive deeper into the fascinating world of the Mandelbrot Set? Check out the detailed [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set) article.
 
 **NOTE**: Found a mistake or have feedback? I'd love to hear from you - please reach out via email!
 {: .notice--success}
