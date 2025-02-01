@@ -1,36 +1,43 @@
 ---
-title: "the Barnsley's Fern with Base Tools in R"
+title: "Simulating Barnsley's Fern Fractal"
 date: 2020-01-27
 tags: [Miscellaneous, R]
 header:
 excerpt: "Complex Numbers, Linear Algebra, the Barnsley Fern, Fractal"
 mathjax: "true"
 ---
-After learning about the Mandelbrot set, I wanted to play around with the very a basic fractal- Barnsley's Fern. Again, fractal geometry is based on the idea of scale invariance which means that a figure is the same, or is invariant, no matter on what scale it is observed. In other words, the figure is constructed by repeating the same pattern at smaller and smaller scales.
+Mathematics can capture nature's most elegant patterns. In this project, I recreated one of the most striking examples: Barnsley's Fern, a fractal that perfectly mirrors the geometric beauty found in natural ferns.
 
 The fern was first represented into a mathametical context by [Dr. Michael Barnsley](https://en.wikipedia.org/wiki/Michael_Barnsley). He first described it in his book "Fractals Everywhere." The fern is one of the basic examples of self-similar sets, i.e. it is a pattern that can be reproducible at any magnification or reduction. The fern code developed by Dr. Barnsley is an example of an iterated function system (IFS) to create a fractal. On a quick note, an IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. This type of fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system").
 
-Anyhow, let's talk about how I drew this fractal in open-source R. Also, please feel free to look through the **source code** by going [here](https://github.com/opendatasurgeon/BarnsleysFractal_r).
+Full implementation available [here](https://github.com/opendatasurgeon/BarnsleysFractal_r).
 
-To begin with, to make this kind of fractal, you would need some sort of 2D space, like a plane, and a container to hold transformations, like a matrix. You would start at `(0,0)`, then the new points are iteratively computed by randomly applying one of the four following linear algebraic coordinate transformation-
+**What is it?**
 
-  `f: xn = 0, yn = 0 (start and iterate from this point)`
-       
-  `(f1 is chosen 1% of the time)`     
-  `f1: xn+1 = 0, yn+1 = 0.16 yn`
-      
-  `(f2 ischosen 7% of the time)`        
-  `f2: xn+1 = -0.15 xn + 0.28 yn, yn+1 = 0.26 xn + 0.24 yn + 0.44` 
-       
-  `(f3 is chosen 14% of the time)`        
-  `f3: xn+1 = 0.2 xn - 0.26 yn,  yn+1 = 0.23 xn + 0.22 yn + 1.6`
-     
-  `(f4 is chosen 85% of the time)`     
-  `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6`               
+Named after Dr. Michael Barnsley, who first described it in his book "Fractals Everywhere," this fern is a perfect example of a self-similar set - a pattern that looks identical at any magnification level. It's created using an iterated function system (IFS), which builds complex patterns from simple repeated transformations.
 
-Underneath these matrix transformation, there is one common rule: first you do the dot product, and then you add and that gives you a next point which you store in a matrix. The resultant point would be in a 1 column, 2 rows matrix. Rather than storing the next points in the matrix, I have made a two vector x & y. Just like the matrix, vectors are arrays and works in similar fashion.
+**The Mathematics Behind the Magic**
 
-In R, it looks something like this-
+The fern emerges from four simple coordinate transformations, each chosen with different probabilities:
+
+1. Stem function (1% probability):
+   
+   `f1: xn+1 = 0, yn+1 = 0.16 yn`
+
+2. Smaller leaflet (7% probability):       
+  `f2: xn+1 = -0.15 xn + 0.28 yn, yn+1 = 0.26 xn + 0.24 yn + 0.44`
+
+3. Left leaflet (14% probability):
+    
+   `f3: xn+1 = 0.2 xn - 0.26 yn,  yn+1 = 0.23 xn + 0.22 yn + 1.6`
+  
+4. Main leaflet (85% probability):
+    
+   `f4: xn+1 = 0.85 xn + 0.04 yn, yn+1 = -0.04 xn + 0.85 yn + 1.6`
+                
+**Implementation in R**
+
+Here's how we bring these mathematical transformations to life:
 
 ```r
 x <- rep(0, times=max_itr) #make vector of 0s
@@ -68,26 +75,19 @@ for (n in 2:(max_itr)) {
 }
 ```
 
-As you can see, the process itself is very simple because unlike matrix, you can store points in linear manner, or "Row-major-order", in these vectors. In matrix however, storing happens in "Column-major-order" by default, meaning, points will be in order of the first column in memory first, and then the second, and so forth. This method gets tricky.
+A key detail - points are generated within specific bounds (-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983) to create the proper arch of the fern's rachis (stalk).
 
-One important thing to note is that, the random numbers are generated between `-2.1820 < x < 2.6558 and 0 ≤ y < 9.9983`. This give you the correct Rachis (stalk) arch of the fern.
-
-The plot is as simple as this-
+**The Beautiful Result**
+The final fern emerges with a simple plot command:
 
 ```r
 plot(x,y, pch='.', xlab= "", ylab = "", col= color)
 ```
 
-Here is mine, looks good I think-
+<img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/fern.png" alt="">
 
-   <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/fern.png" alt="">
-
-
-For visual people who want to see how the fern is made, please checkout the link [here](https://www.geogebra.org/m/bQ8ppzRj).
+Want to see the fern's creation in action? Check out this interactive visualization. For a deeper dive into the mathematics, visit the Wikipedia article.
 
 
-And if you want to learn more about fern fractal, please go [here](https://en.wikipedia.org/wiki/Barnsley_fern#Construction) to read more about its process and matrix representation.
-
-
-**NOTE**: Thank you very much for reading! If you discover any mistakes or want to offer any feedback, please feel free to email me.
+**NOTE**: Found a mistake or have feedback? I'd love to hear from you - please reach out via email!
 {: .notice--success}
