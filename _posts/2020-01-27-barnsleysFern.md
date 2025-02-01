@@ -8,8 +8,6 @@ mathjax: "true"
 ---
 Mathematics can capture nature's most elegant patterns. In this project, I recreated one of the most striking examples: Barnsley's Fern, a fractal that perfectly mirrors the geometric beauty found in natural ferns.
 
-The fern was first represented into a mathametical context by [Dr. Michael Barnsley](https://en.wikipedia.org/wiki/Michael_Barnsley). He first described it in his book "Fractals Everywhere." The fern is one of the basic examples of self-similar sets, i.e. it is a pattern that can be reproducible at any magnification or reduction. The fern code developed by Dr. Barnsley is an example of an iterated function system (IFS) to create a fractal. On a quick note, an IFS fractals, as they are normally called, can be of any number of dimensions, but are commonly computed and drawn in 2D. This type of fractal is made up of the union of several copies of itself, each copy being transformed by a function (hence "function system").
-
 Full implementation available [here](https://github.com/opendatasurgeon/BarnsleysFractal_r).
 
 **What is it?**
