@@ -6,7 +6,7 @@ header:
 excerpt: "Complex Numbers, Linear Algebra, the Mandelbrot Set, Fractal"
 mathjax: "true"
 ---
-Ever wondered how nature creates its intricate patterns - from DNA molecules to leaf structures to cosmic formations? Let me take you through my journey of recreating the very first fractal: the Mandelbrot Set, named after the "father of fractals," Dr. Benoit Mandelbrot.
+Nature's patterns are hiding in mathematics. From DNA molecules to cosmic formations, these recurring designs can be explored through fractals - and it all began with the Mandelbrot Set.
 
 *(Curious about the implementation? Check out the source code [here](https://github.com/opendatasurgeon/MandelbrotsFractal_r))*
 
