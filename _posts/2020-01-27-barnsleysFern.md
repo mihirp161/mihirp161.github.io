@@ -84,7 +84,7 @@ plot(x,y, pch='.', xlab= "", ylab = "", col= color)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/barnsley/fern.png" alt="">
 
-Want to see the fern's creation in action? Check out this interactive visualization. For a deeper dive into the mathematics, visit the Wikipedia article.
+Want to see the fern's creation in action? Check out this interactive [visualization](https://www.geogebra.org/m/bQ8ppzRj). For a deeper dive into the mathematics, visit the [Wikipedia](https://en.wikipedia.org/wiki/Barnsley_fern#Construction) article.
 
 
 **NOTE**: Found a mistake or have feedback? I'd love to hear from you - please reach out via email!
