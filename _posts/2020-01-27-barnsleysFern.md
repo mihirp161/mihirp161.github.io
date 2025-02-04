@@ -1,7 +1,7 @@
 ---
 title: "Simulating Barnsley's Fern Fractal"
 date: 2020-01-27
-tags: [Miscellaneous, R]
+tags: [Math & Stats, R]
 header:
 excerpt: "Complex Numbers, Linear Algebra, the Barnsley Fern, Fractal"
 mathjax: "true"
