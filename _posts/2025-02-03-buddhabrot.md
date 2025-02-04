@@ -9,4 +9,4 @@ mathjax: "true"
 
 In-progress :)
 
-Source code (here)[https://github.com/mihirp161/buddhabrot_r].
+Source code [here](https://github.com/mihirp161/buddhabrot_r).
