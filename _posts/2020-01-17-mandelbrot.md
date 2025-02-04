@@ -1,7 +1,7 @@
 ---
 title: "Creating the Mandelbrot Set Fractal"
 date: 2020-01-17
-tags: [Miscellaneous, R]
+tags: [Math & Stats, R]
 header:
 excerpt: "Complex Numbers, Linear Algebra, the Mandelbrot Set, Fractal"
 mathjax: "true"
