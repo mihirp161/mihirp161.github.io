@@ -1,7 +1,7 @@
 ---
 title: "Dr. Semmelweis and the Power of Handwashing"
 date: 2020-03-20
-tags: [Data Science & Analytics, R]
+tags: [Data science & analytics, R]
 header:
 excerpt: "Investigative Analysis, Web-scraping, ggplot2"
 mathjax: "true"
