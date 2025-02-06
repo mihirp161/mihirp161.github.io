@@ -3,7 +3,7 @@ title: "Buddhabrot - From Chaos to Cosmic Beauty"
 date: 2025-02-03
 tags: [Math & Stats, R, C++]
 header:
-excerpt: "Complex Numbers, parallel, Rcpp, Buddhabrot"
+excerpt: "Complex Numbers, parallel, Rcpp, Buddhabrot, Fractal"
 mathjax: "true"
 ---
 
