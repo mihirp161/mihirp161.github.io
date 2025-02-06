@@ -12,7 +12,7 @@ Deep within the field of generative art lies a fascinating fractal called the [B
 
 **What Makes Buddhabrot Special?**
 
-The Buddhabrot, discovered by [Melinda Green](https://superliminal.com/fractals/bbrot/) in 1993, is created by tracking the paths of escaping points in the complex plane, revealing a ghostly figure that emerges from mathematics. Imagine throwing thousands of digital particles into a mathematical wind tunnel and watching where they flow – that's essentially what we're doing here.
+The Buddhabrot, discovered by [Melinda Green](https://superliminal.com/fractals/bbrot/) in 1993, is created by tracking the paths of escaping points in the complex plane, revealing a ghostly figure that emerges from mathematics. Imagine throwing thousands of digital particles into a mathematical wind tunnel and watching where they flow - that's essentially what we're doing here.
 
 
 **The Math Behind the Magic**
