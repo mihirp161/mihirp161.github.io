@@ -73,6 +73,7 @@ buddhabrot <- function(iterations, size, max_iter) {
 buddhabrot(iterations = 1e6, size = 1500, max_iter = 1500)
 
 `````
+
 <p align="center"> 
    <img src="{{ site.url }}{{ site.baseurl }}/images/buddhabrot/Buddhabrot_Optimized.png" alt="">
 </p>
