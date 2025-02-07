@@ -37,7 +37,7 @@ One of the most cool aspects of the Buddhabrot is how it reveals different struc
 **Fun Facts**
 
 1. The name "Buddhabrot" comes from its resemblance to a seated Buddha figure, though this wasn't noticed until years after its mathematical properties were first studied.
-2. If you color different escape-time ranges differently, you can create a ["Nebulabrot"](https://mathematica.stackexchange.com/questions/89458/how-to-make-a-nebulabrot) variation that looks remarkably like a cosmic nebula.
+2. If you color different escape-time ranges differently, you can create a ["Nebulabrot"](https://raw.githubusercontent.com/mihirp161/nebulabrot_r/refs/heads/main/Nebulabrot_Core.png) variation that looks remarkably like a cosmic nebula.
 3. The rendering technique used here inspired several other fractal rendering methods in computer graphics.
 
 The [code](https://github.com/mihirp161/buddhabrot_r) provided implements an optimized version of the Buddhabrot or at least as optimal as I was able to make it). It is using parallel processing to generate millions of points efficiently. Each run creates a unique image, as the algorithm uses random sampling to explore the complex plane.
